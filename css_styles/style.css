@@ -11,3 +11,9 @@
   width: 100%;
   position: relative;
 }
+
+.nav{
+  display: flex;
+  align-items: center;
+  padding: auto;
+}
