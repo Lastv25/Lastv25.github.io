@@ -40,6 +40,9 @@ nav ul li{
 nav ul li a{
   text-decoration: none;
   color: #fff;
+  background: #00986f;
+  padding: 14px 40px;
+  border-radius: 30px;
 }
 
 .vault_container{
