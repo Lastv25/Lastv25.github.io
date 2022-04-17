@@ -49,14 +49,15 @@ nav ul li a{
   width: 200px;
 }
 .vault_boy{
-  width: 50%;
-  height: 50%;
+  width: 40%;
+  height: 40%;
   transform: scaleX(-1);
 }
 
 .home_page_text{
-  margin-left: 50%;
-  margin-top: -40%;
+  margin-left: 45%;
+  margin-right: 10%;
+  margin-top: -30%;
 }
 
 .home_page_text h1{
