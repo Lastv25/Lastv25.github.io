@@ -12,8 +12,14 @@
   position: relative;
 }
 
-.nav{
+nav{
   display: flex;
   align-items: center;
   padding: auto;
+}
+
+nav.logo{
+  width: 20%;
+  height: 40%;
+  margin-right: auto;
 }
